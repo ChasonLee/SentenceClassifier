@@ -1,0 +1,9 @@
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\Debug\NeuroNetworkClassifier.exe.config
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\Debug\NeuroNetworkClassifier.exe
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\Debug\NeuroNetworkClassifier.pdb
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\Debug\NeuroNetworkClassifier.Form1.resources
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\Debug\NeuroNetworkClassifier.Properties.Resources.resources
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\Debug\NeuroNetworkClassifier.csproj.GenerateResource.Cache
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\Debug\NeuroNetworkClassifier.exe
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\Debug\NeuroNetworkClassifier.pdb
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\Debug\NeuroNetworkClassifier.csprojResolveAssemblyReference.cache

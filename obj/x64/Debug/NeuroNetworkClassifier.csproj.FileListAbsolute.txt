@@ -1,0 +1,13 @@
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\x64\Debug\NeuroNetworkClassifier.exe.config
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\x64\Debug\NeuroNetworkClassifier.exe
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\x64\Debug\NeuroNetworkClassifier.pdb
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\x64\Debug\NeuroNetworkClassifier.Properties.Resources.resources
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\x64\Debug\NeuroNetworkClassifier.csproj.GenerateResource.Cache
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\x64\Debug\NeuroNetworkClassifier.exe
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\x64\Debug\NeuroNetworkClassifier.pdb
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\x64\Debug\NeuroNetworkClassifier.csprojResolveAssemblyReference.cache
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\x64\Debug\NeuroNetworkClassifier.frmSetHiddenNum.resources
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\x64\Debug\AForge.Controls.dll
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\x64\Debug\AForge.dll
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\bin\x64\Debug\AForge.Neuro.dll
+F:\VSWorkspace\C#Project\SentenceClassifier\NeuroNetworkClassifier\obj\x64\Debug\NeuroNetworkClassifier.frmMain.resources

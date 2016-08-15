@@ -1,0 +1,11 @@
+F:\GitHub\SentenceClassifier\bin\x64\Debug\NeuroNetworkClassifier.exe.config
+F:\GitHub\SentenceClassifier\obj\x64\Debug\NeuroNetworkClassifier.exe
+F:\GitHub\SentenceClassifier\obj\x64\Debug\NeuroNetworkClassifier.pdb
+F:\GitHub\SentenceClassifier\bin\x64\Debug\NeuroNetworkClassifier.exe
+F:\GitHub\SentenceClassifier\bin\x64\Debug\NeuroNetworkClassifier.pdb
+F:\GitHub\SentenceClassifier\obj\x64\Debug\SentenceClassifier.csprojResolveAssemblyReference.cache
+F:\GitHub\SentenceClassifier\obj\x64\Debug\NeuroNetworkClassifier.frmMain.resources
+F:\GitHub\SentenceClassifier\obj\x64\Debug\NeuroNetworkClassifier.frmHiddenNum.resources
+F:\GitHub\SentenceClassifier\obj\x64\Debug\NeuroNetworkClassifier.frmModelSetting.resources
+F:\GitHub\SentenceClassifier\obj\x64\Debug\NeuroNetworkClassifier.Properties.Resources.resources
+F:\GitHub\SentenceClassifier\obj\x64\Debug\SentenceClassifier.csproj.GenerateResource.Cache
