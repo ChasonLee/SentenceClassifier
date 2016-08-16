@@ -371,7 +371,8 @@ namespace NeuroNetworkClassifier
 					return;
 				}
 				ShowMessages();
-				ssrLabel.Text = "状态：模型已加载。";
+                btnDraw_Click(sender, e);
+                ssrLabel.Text = "状态：模型已加载。";
 			}
 			
 		}
