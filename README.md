@@ -3,7 +3,6 @@ a chinese sentences classifier
 
 ##说明
 　　这是一个中文句子分类器，由于词向量和语料文件太大，我已上传到百度网盘：http://pan.baidu.com/s/1nvEnLn7
-　　
 　　选择需要的文件，放在bin\x64\Debug目录里。
 
 ##用法
