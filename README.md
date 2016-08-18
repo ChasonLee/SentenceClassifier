@@ -1,8 +1,8 @@
 # SentenceClassifier
-a chinese sentences classifier
+an ANN-based chinese sentence classifier
 
 ##说明
-　　这是一个中文句子分类器，由于词向量和语料文件太大，我已上传到百度网盘：http://pan.baidu.com/s/1nvEnLn7
+　　这是一个基于中文词向量和BP神经网络的中文句子分类器，句子向量目前只是简单的词向量组合。由于词向量和语料文件太大，我已上传到百度网盘：http://pan.baidu.com/s/1nvEnLn7
 #
 　　选择需要的文件，放在bin\x64\Debug目录里。
 #
