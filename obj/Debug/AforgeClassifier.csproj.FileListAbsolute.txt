@@ -1,9 +1,0 @@
-F:\GitHub\AforgeClassifier\bin\Debug\NeuroNetworkClassifier.exe.config
-F:\GitHub\AforgeClassifier\obj\Debug\NeuroNetworkClassifier.exe
-F:\GitHub\AforgeClassifier\obj\Debug\NeuroNetworkClassifier.pdb
-F:\GitHub\AforgeClassifier\obj\Debug\AforgeClassifier.csprojResolveAssemblyReference.cache
-F:\GitHub\AforgeClassifier\obj\Debug\NeuroNetworkClassifier.frmMain.resources
-F:\GitHub\AforgeClassifier\obj\Debug\NeuroNetworkClassifier.frmHiddenNum.resources
-F:\GitHub\AforgeClassifier\obj\Debug\NeuroNetworkClassifier.frmModelSetting.resources
-F:\GitHub\AforgeClassifier\obj\Debug\NeuroNetworkClassifier.Properties.Resources.resources
-F:\GitHub\AforgeClassifier\obj\Debug\AforgeClassifier.csproj.GenerateResource.Cache

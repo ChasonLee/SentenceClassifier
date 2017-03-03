@@ -1,3 +1,0 @@
-F:\GitHub\SentenceClassifier\bin\Debug\NeuroNetworkClassifier.exe.config
-F:\GitHub\SentenceClassifier\obj\Debug\NeuroNetworkClassifier.exe
-F:\GitHub\SentenceClassifier\obj\Debug\NeuroNetworkClassifier.pdb
