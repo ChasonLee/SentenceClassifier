@@ -49,6 +49,4 @@ Temporary Items
 # VS file
 obj/
 .vs/
-*.manifest
-*.pdb
-*.exe
+*.vshost.exe

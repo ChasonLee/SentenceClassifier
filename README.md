@@ -15,8 +15,10 @@ an ANN-based chinese sentence classifier
 
 ##例子
 - 运行 “NeuroNetworkClassifier.exe” ，可以直接点击加载模型，选择当前目录下的“Classifier_[1492-167]_12400-20-12_650--3--44.model” 
+![](https://github.com/ChasonLee/SentenceClassifier/raw/master/img/model1.jpg)
 - 这是我自己训练过的模型。目前由于训练样本太少，测试集的误差率依然很高。
 - 现在再点击“加载模型”，选择“Classifier_[20296-2184]_10400-20-12_560--2--6.model” 
+![](https://github.com/ChasonLee/SentenceClassifier/raw/master/img/model2.jpg)
 - 可以看到现在模型性能表现相对较好。
 
 ##引用
