@@ -50,3 +50,5 @@ Temporary Items
 obj/
 .vs/
 *.vshost.exe
+*.model
+*.vecmap
